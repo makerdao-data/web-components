@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`delegate-voting-power-chart renders 1`] = `
+<delegate-voting-power-chart>
+  <mock:shadow-root>
+    <div class="chart-container" style="position: relative; height: 65vh; width: 100%;">
+      <canvas height="500" width="500"></canvas>
+    </div>
+  </mock:shadow-root>
+</delegate-voting-power-chart>
+`;

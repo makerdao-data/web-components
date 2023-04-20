@@ -1,0 +1,502 @@
+[
+  {
+    "date": "2021-07-27",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-07-27",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-27",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 0.33339999953197685
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-28",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 0.33339999953197685
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-29",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-30",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-07-31",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-01",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 32.0
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 0.399736
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 1.1
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-02",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 32.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 32.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-03",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 32.0
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-04",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 32.0
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-05",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 8032.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-06",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 8032.0
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-07",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x45127ec92b58c3a89e89f63553073adcaf2f1f5f",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x14a4ed2000ca405452c140e21c10b3536c1a98e4",
+    "support": 17.5
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x00daec2c2a6a3fcc66b02e38b7e56dcdfa9347a1",
+    "support": 8032.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x2c3b917cceaf41503145ceb4b37c8623d862c4cd",
+    "support": 2000.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b",
+    "support": 0.0
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0x845b36e1e4f41a361dd711bda8ea239bf191fe95",
+    "support": 1.0563930400370831
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281",
+    "support": 4.645981
+  },
+  {
+    "date": "2021-08-08",
+    "vote_delegate": "0xb21e535fb349e4ef0520318acfe589e174b0126b",
+    "support": 33.00006666653198
+  },
+  {
+    "date": "2021-08-09",
+    "vote_delegate": "0x5299370b4e2ba6a8a16e3c770ef52214965ac82a",
+    "support": 0.0
+  }
+]
