@@ -2,13 +2,24 @@
 <html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0"
+    />
     <title>Stencil Component Starter</title>
 
-    <script type="module" src="/build/delegate-voting-power.esm.js"></script>
-    <script nomodule src="/build/delegate-voting-power.js"></script>
+    <script type="module" src="/build/web-components.esm.js"></script>
+    <!-- <script
+      type="module"
+      src="/build/collateral-composition-bar-chart.esm.js"
+    ></script> -->
   </head>
   <body>
-    <delegate-voting-power-chart token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzIn0.ZnzBR61d_AK-Xgve-3DHrIxZWMQbkZ3-nUbfGrSyZec"></delegate-voting-power-chart>
+    <delegate-voting-power-chart
+      token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzIn0.ZnzBR61d_AK-Xgve-3DHrIxZWMQbkZ3-nUbfGrSyZec"
+    ></delegate-voting-power-chart>
+    <collateral-composition-bar-chart
+      token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzIn0.ZnzBR61d_AK-Xgve-3DHrIxZWMQbkZ3-nUbfGrSyZec"
+    ></collateral-composition-bar-chart>
   </body>
 </html>

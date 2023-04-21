@@ -8,6 +8,13 @@ import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 import { ChartOptions } from "chart.js";
 export { ChartOptions } from "chart.js";
 export namespace Components {
+    interface CollateralCompositionBarChart {
+        "chartOptions": ChartOptions<'bar'>;
+        "height": string;
+        "sx": string;
+        "token": string;
+        "width": string;
+    }
     interface DelegateVotingPowerChart {
         "chartOptions": ChartOptions<'line'>;
         "height": string;
@@ -17,6 +24,12 @@ export namespace Components {
     }
 }
 declare global {
+    interface HTMLCollateralCompositionBarChartElement extends Components.CollateralCompositionBarChart, HTMLStencilElement {
+    }
+    var HTMLCollateralCompositionBarChartElement: {
+        prototype: HTMLCollateralCompositionBarChartElement;
+        new (): HTMLCollateralCompositionBarChartElement;
+    };
     interface HTMLDelegateVotingPowerChartElement extends Components.DelegateVotingPowerChart, HTMLStencilElement {
     }
     var HTMLDelegateVotingPowerChartElement: {
@@ -24,10 +37,18 @@ declare global {
         new (): HTMLDelegateVotingPowerChartElement;
     };
     interface HTMLElementTagNameMap {
+        "collateral-composition-bar-chart": HTMLCollateralCompositionBarChartElement;
         "delegate-voting-power-chart": HTMLDelegateVotingPowerChartElement;
     }
 }
 declare namespace LocalJSX {
+    interface CollateralCompositionBarChart {
+        "chartOptions"?: ChartOptions<'bar'>;
+        "height"?: string;
+        "sx"?: string;
+        "token"?: string;
+        "width"?: string;
+    }
     interface DelegateVotingPowerChart {
         "chartOptions"?: ChartOptions<'line'>;
         "height"?: string;
@@ -36,6 +57,7 @@ declare namespace LocalJSX {
         "width"?: string;
     }
     interface IntrinsicElements {
+        "collateral-composition-bar-chart": CollateralCompositionBarChart;
         "delegate-voting-power-chart": DelegateVotingPowerChart;
     }
 }
@@ -43,6 +65,7 @@ export { LocalJSX as JSX };
 declare module "@stencil/core" {
     export namespace JSX {
         interface IntrinsicElements {
+            "collateral-composition-bar-chart": LocalJSX.CollateralCompositionBarChart & JSXBase.HTMLAttributes<HTMLCollateralCompositionBarChartElement>;
             "delegate-voting-power-chart": LocalJSX.DelegateVotingPowerChart & JSXBase.HTMLAttributes<HTMLDelegateVotingPowerChartElement>;
         }
     }

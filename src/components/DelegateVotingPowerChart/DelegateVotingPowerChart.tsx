@@ -3,6 +3,8 @@ import { Component, Prop, h, State, Element, Watch } from '@stencil/core';
 import delegatesWeightChartData, { DelegatesWeightChartData, Support } from '../../transformers/delegatesWeightChartData';
 import 'chartjs-adapter-date-fns';
 import { ChartOptions } from 'chart.js';
+import { v4 as uuid } from 'uuid';
+import 'chart.js/auto';
 
 const spacingPlugin = {
   id: 'increase-legend-spacing',
@@ -80,8 +82,10 @@ export class DelegateVotingPowerChart {
   }
 
   componentDidLoad() {
+    const chartId = uuid();
     // this.canvas = this.el.shadowRoot.querySelector('canvas');
     this.canvas = this.el.querySelector('canvas');
+    this.canvas.setAttribute('id', chartId);
 
     this.context = this.canvas.getContext('2d');
 

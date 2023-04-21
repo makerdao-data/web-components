@@ -5,7 +5,7 @@ const esModules = [
 ].join('|');
 
 export const config: Config = {
-  namespace: 'delegate-voting-power',
+  namespace: 'web-components',
   outputTargets: [
     {
       type: 'dist',
