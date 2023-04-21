@@ -5,57 +5,68 @@
  * It contains typing information for all components that exist in this project.
  */
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
+import { ChartOptions } from "chart.js";
+export { ChartOptions } from "chart.js";
 export namespace Components {
-    interface MyComponent {
-        /**
-          * The first name
-         */
-        "first": string;
-        /**
-          * The last name
-         */
-        "last": string;
-        /**
-          * The middle name
-         */
-        "middle": string;
+    interface CollateralCompositionBarChart {
+        "chartOptions": ChartOptions<'bar'>;
+        "height": string;
+        "sx": string;
+        "token": string;
+        "width": string;
+    }
+    interface DelegateVotingPowerChart {
+        "chartOptions": ChartOptions<'line'>;
+        "height": string;
+        "sx": string;
+        "token": string;
+        "width": string;
     }
 }
 declare global {
-    interface HTMLMyComponentElement extends Components.MyComponent, HTMLStencilElement {
+    interface HTMLCollateralCompositionBarChartElement extends Components.CollateralCompositionBarChart, HTMLStencilElement {
     }
-    var HTMLMyComponentElement: {
-        prototype: HTMLMyComponentElement;
-        new (): HTMLMyComponentElement;
+    var HTMLCollateralCompositionBarChartElement: {
+        prototype: HTMLCollateralCompositionBarChartElement;
+        new (): HTMLCollateralCompositionBarChartElement;
+    };
+    interface HTMLDelegateVotingPowerChartElement extends Components.DelegateVotingPowerChart, HTMLStencilElement {
+    }
+    var HTMLDelegateVotingPowerChartElement: {
+        prototype: HTMLDelegateVotingPowerChartElement;
+        new (): HTMLDelegateVotingPowerChartElement;
     };
     interface HTMLElementTagNameMap {
-        "my-component": HTMLMyComponentElement;
+        "collateral-composition-bar-chart": HTMLCollateralCompositionBarChartElement;
+        "delegate-voting-power-chart": HTMLDelegateVotingPowerChartElement;
     }
 }
 declare namespace LocalJSX {
-    interface MyComponent {
-        /**
-          * The first name
-         */
-        "first"?: string;
-        /**
-          * The last name
-         */
-        "last"?: string;
-        /**
-          * The middle name
-         */
-        "middle"?: string;
+    interface CollateralCompositionBarChart {
+        "chartOptions"?: ChartOptions<'bar'>;
+        "height"?: string;
+        "sx"?: string;
+        "token"?: string;
+        "width"?: string;
+    }
+    interface DelegateVotingPowerChart {
+        "chartOptions"?: ChartOptions<'line'>;
+        "height"?: string;
+        "sx"?: string;
+        "token"?: string;
+        "width"?: string;
     }
     interface IntrinsicElements {
-        "my-component": MyComponent;
+        "collateral-composition-bar-chart": CollateralCompositionBarChart;
+        "delegate-voting-power-chart": DelegateVotingPowerChart;
     }
 }
 export { LocalJSX as JSX };
 declare module "@stencil/core" {
     export namespace JSX {
         interface IntrinsicElements {
-            "my-component": LocalJSX.MyComponent & JSXBase.HTMLAttributes<HTMLMyComponentElement>;
+            "collateral-composition-bar-chart": LocalJSX.CollateralCompositionBarChart & JSXBase.HTMLAttributes<HTMLCollateralCompositionBarChartElement>;
+            "delegate-voting-power-chart": LocalJSX.DelegateVotingPowerChart & JSXBase.HTMLAttributes<HTMLDelegateVotingPowerChartElement>;
         }
     }
 }
